@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=escrivner)](https://git.io/streak-stats)
 
 <!--
 **escrivner/escrivner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
