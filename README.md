@@ -1,5 +1,5 @@
 ### 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=escrivner)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=escrivner&theme=dark&ring=red&fire=red&currStreakLabel=red&border=red)](https://git.io/streak-stats)
 
 <!--
 **escrivner/escrivner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
